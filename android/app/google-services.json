@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394480632206",
+    "project_id": "eorderbook004-58119",
+    "storage_bucket": "eorderbook004-58119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394480632206:android:60245531bf12129f2364df",
+        "android_client_info": {
+          "package_name": "com.shebaschool.minipos.minipos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394480632206-eqjo71uooad862srdsss2v1u0egu4pvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFvbuBDsE3UlNOFFxtAl8KNcwj0CXHKYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394480632206-eqjo71uooad862srdsss2v1u0egu4pvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
